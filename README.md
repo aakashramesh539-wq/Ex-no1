@@ -1,18 +1,10 @@
 # Arithmetic-operation-using-8086
 # 8086 Assembly Language Programs for Arithmetic Operations
-
 ### AIM
-
 To write and execute Assembly Language Programs to perform arithmetic operations for the 8086 microprocessor.
-
-
-
 ### APPARATUS REQUIRED
-
 Personal Computer with MASM Software
-
 ### 1. ADDITION
-
 #### ALGORITHM
 
 1.Initialize registers and memory.    
