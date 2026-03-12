@@ -228,14 +228,8 @@ END
 #### MANUAL CALCULATION
 ![div](https://github.com/user-attachments/assets/f827826f-6f5a-42e8-b07c-7061d23c641a)
 
-
-
-
----
 ### OUTPUT FROM MASM SOFTWARE
 <img width="540" height="300" alt="debug_003" src="https://github.com/user-attachments/assets/a17eb401-a191-46d1-bec8-86c19aa0b160" />
-
-
 
 ### RESULT
 
